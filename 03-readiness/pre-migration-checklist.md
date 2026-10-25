@@ -30,4 +30,4 @@
 - [ ] Formal Change Advisory Board (CAB) approval documented.
 
 ---
-*Authored by [Rahul Goyal](https://github.com/rahulgoyaldevops) — 14+ Years Enterprise Cloud Architecture*
+*Authored by [Rahul Goyal](https://github.com/rahulgoyaldevops) — 14+ Years Senior DevOps & Cloud Engineering*
