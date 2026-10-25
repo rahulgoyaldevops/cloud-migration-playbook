@@ -3,10 +3,9 @@
 # 🔄 Cloud Migration Playbook
 
 [![Azure](https://img.shields.io/badge/Azure-Migration-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![AWS](https://img.shields.io/badge/AWS-Migration-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Enterprise](https://img.shields.io/badge/Enterprise-100%2B_Apps-FF6F00?style=for-the-badge)](https://github.com/rahulgoyaldevops)
+[![Enterprise](https://img.shields.io/badge/Enterprise-19_Apps-FF6F00?style=for-the-badge)](https://github.com/rahulgoyaldevops)
 
-**Battle-tested framework for large-scale cloud migrations — from assessment to hypercare. Built from real experience migrating 100+ applications across dev, UAT, and production environments.**
+**Battle-tested framework for large-scale cloud migrations — from assessment to hypercare. Built from real experience migrating 19 enterprise applications across dev, UAT, and production environments.**
 
 *Not theory. This is how enterprise migration is executed in the trenches.*
 
@@ -16,7 +15,7 @@
 
 ## 🎯 What This Playbook Covers
 
-> Migrating a handful of VMs is straightforward. Migrating **100+ applications across multiple subscriptions, from on-premises datacenters to cloud, while maintaining uptime, zero data loss, strict governance, and FinOps targets** — requires an industrialized Migration Factory.
+> Migrating a handful of VMs is straightforward. Migrating **19 enterprise applications across multiple subscriptions, from on-premises datacenters to cloud, while maintaining uptime, zero data loss, strict governance, and FinOps targets** — requires an industrialized Migration Factory.
 
 ## 🏭 Migration Factory Framework
 
@@ -35,8 +34,8 @@
 │  │          │   │          │   │ Backup   │   │ Cutover  │   │ KT       │  │
 │  └──────────┘   └──────────┘   └──────────┘   └──────────┘   └──────────┘ │
 │                                                                             │
-│  ► Workloads: On-Premise Datacenter ──▶ Azure / AWS Landing Zone           │
-│  ► Scale: 100+ Applications (Dev, UAT, Production)                         │
+│  ► Workloads: On-Premise Datacenter ──▶ Microsoft Azure Landing Zone           │
+│  ► Scale: 19 Enterprise Applications (Dev, UAT, Production)                         │
 │  ► Focus: High Availability, RTO/RPO SLAs, Least Privilege Security        │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
